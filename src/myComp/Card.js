@@ -10,7 +10,7 @@ function Card({title,img,desc,link}) {
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{desc}</p>
                         <NavLink to="/service"><button className="btn btn-outline-danger"><i className="bi bi-book" style={{marginRight:"10px"}}></i>Read</button></NavLink>
-                        <a href="https://api.whatsapp.com/send?text=https://gouravojha.github.io/opennews.github.io/"><i class="bi bi-share-fill" style={{marginLeft:"80px"}}></i></a>
+                        <a href="https://api.whatsapp.com/send?text=https://gouravojha.github.io/opennews"><i class="bi bi-share-fill" style={{marginLeft:"80px"}}></i></a>
                     </div>
             </div>
         </>
