@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/opennews.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/opennews.github.io/static/js/main.1cd31800.chunk.js",
+    "main.js.map": "/opennews.github.io/static/js/main.1cd31800.chunk.js.map",
+    "runtime-main.js": "/opennews.github.io/static/js/runtime-main.24dd582a.js",
+    "runtime-main.js.map": "/opennews.github.io/static/js/runtime-main.24dd582a.js.map",
+    "static/js/2.f0840f37.chunk.js": "/opennews.github.io/static/js/2.f0840f37.chunk.js",
+    "static/js/2.f0840f37.chunk.js.map": "/opennews.github.io/static/js/2.f0840f37.chunk.js.map",
+    "static/js/3.2efe572f.chunk.js": "/opennews.github.io/static/js/3.2efe572f.chunk.js",
+    "static/js/3.2efe572f.chunk.js.map": "/opennews.github.io/static/js/3.2efe572f.chunk.js.map",
+    "index.html": "/opennews.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/opennews.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f0840f37.chunk.js.LICENSE.txt": "/opennews.github.io/static/js/2.f0840f37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24dd582a.js",
+    "static/js/2.f0840f37.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1cd31800.chunk.js"
+  ]
+}
